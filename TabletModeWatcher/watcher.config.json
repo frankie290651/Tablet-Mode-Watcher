@@ -1,0 +1,15 @@
+{
+  "TargetVidPidPairs": [
+    {
+      "Vid": "0B05",
+      "Pid": "1B6E"
+    }
+  ],
+  "LogPath": "",
+  "MutexPrefix": "TabletModeWatcher",
+  "DebounceSeconds": 2,
+  "HkLmConvertibleSlateModePath": "SYSTEM\\\\CurrentControlSet\\\\Control\\\\PriorityControl",
+  "HkCuImmersiveShellPath": "SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\ImmersiveShell",
+  "BroadcastTimeoutMs": 2000,
+  "LogMaxBytes": 5242880
+}

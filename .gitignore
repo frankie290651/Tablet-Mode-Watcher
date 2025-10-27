@@ -1,0 +1,44 @@
+# Build output
+bin/
+obj/
+publish/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# ASP.NET temp files
+*.log
+*.vsconfig
+
+# Runtime files
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PowerShell
+*.ps1.xml
+
+# Environment / local config
+.env
+appsettings.Local.json
+appsettings.Development.json
