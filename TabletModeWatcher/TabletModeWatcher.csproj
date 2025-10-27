@@ -14,12 +14,17 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<None Remove="Install-TabletModeWatcher-arm64.ps1" />
+		<None Remove="watcher.config.json" />
 		<None Remove="watcher.config_Version3.json" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<Content Include="watcher.config_Version3.json">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		<Content Include="Install-TabletModeWatcher-arm64.ps1">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="watcher.config.json">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</Content>
 	</ItemGroup>
 
