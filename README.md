@@ -6,7 +6,6 @@ NOTE: This tool was developed specifically for the Asus PZ13 and requires admini
 Status: Stable
 
 ## Requirements
-- .NET 9 Framework (runtime)
 - Windows (tested on Asus PZ13)
 - Administrator privileges for installation and automatic startup configuration
 
