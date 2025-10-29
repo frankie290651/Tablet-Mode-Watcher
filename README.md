@@ -1,7 +1,7 @@
 # Tablet Mode Watcher
 
 Tablet Mode Watcher is a utility that makes Windows switch between slate mode (aka tablet mode) and laptop mode when the keyboard is detached or attached.  
-NOTE: This tool was developed specifically for the Asus PZ13 and requires administrator privileges.
+NOTE: This tool was developed specifically for the Asus PZ13 but should work just fine on any laptop as long as you specify the right PID/VID. this tool requires administrator privileges.
 
 Status: Stable
 
